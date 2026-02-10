@@ -1,0 +1,5 @@
+{
+  "name": "OrbitalEye: Satellite Disaster Detection",
+  "description": "A sophisticated AI-powered satellite imagery analysis platform designed to detect forest fires, tsunamis, and environmental anomalies using high-resolution Earth observation data.",
+  "requestFramePermissions": []
+}
